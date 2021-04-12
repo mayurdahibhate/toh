@@ -1,2 +1,2 @@
 # toh
-visualizer
+visual solution of tower of hanoi
